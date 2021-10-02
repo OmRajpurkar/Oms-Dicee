@@ -4,8 +4,8 @@
 </p>
 
 **Features:**
-- A click on the ‘Roll’ button will roll the 2 dices and randomly display any number.
-- USP is that you can even ‘Shake Your Phone’ to roll the dices!
+- A click on the ‘Roll’ button will roll the 2 dices 🎲 and randomly display any number on the dice face.
+- USP is that you can even ‘Shake Your Phone’ 🤳 to roll the dices!
 
 ## Screenshots
 
