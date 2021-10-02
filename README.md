@@ -2,6 +2,8 @@
 <p float="left">
  <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Dicee-iOS13/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" alt="alt text">
 </p>
+With this app in your pocket, you no longer have need for physical dices 🎲 to play single-player or 2-player games like snake and ladder 🐍🪜, Ludo etc.
+
 
 **Features:**
 - A click on the ‘Roll’ button will roll the 2 dices 🎲 and randomly display any number on the dice face.
