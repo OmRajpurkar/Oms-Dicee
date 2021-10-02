@@ -23,3 +23,10 @@
 
 ## Things learned while creating this app
 
+- Create an app with behaviour and functionality.
+- Create links between the Interface Builder files and code using IBActions and IBOutlets.
+- Get familiar with the Xcode code editor.
+- Learn to use comments to annotate code.
+- Understand and use Swift constants and variables.
+- Understand and use collection types such as Swift arrays.
+- Learn about randomisation and how to generate random numbers in Swift.
