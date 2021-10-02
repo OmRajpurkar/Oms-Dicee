@@ -1,6 +1,6 @@
 # Oms-Dicee 🎲🎲
 <p float="left">
- <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Dicee-iOS13/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" alt="alt text" style="border-radius: 20%;">
+ <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Dicee-iOS13/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" alt="alt text" style="border-radius:15px;">
 </p>
 
 **Features:**
