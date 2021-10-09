@@ -28,10 +28,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="U3Z-QD-pzz" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Fml-vL-tCV"/>
+                            <constraint firstItem="U3Z-QD-pzz" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="6cw-mH-XtS"/>
                             <constraint firstAttribute="bottom" secondItem="hDV-2r-SpX" secondAttribute="bottom" id="HrS-fz-LXy"/>
                             <constraint firstItem="hDV-2r-SpX" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Q4u-lR-z8u"/>
-                            <constraint firstItem="U3Z-QD-pzz" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="ffX-84-yjl"/>
+                            <constraint firstItem="U3Z-QD-pzz" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="gfn-cx-NNk"/>
                             <constraint firstItem="hDV-2r-SpX" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="rDJ-Wb-97Y"/>
                             <constraint firstItem="hDV-2r-SpX" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="srN-5r-hwd"/>
                         </constraints>
